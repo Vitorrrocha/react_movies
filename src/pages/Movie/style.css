@@ -1,0 +1,44 @@
+.info-movie {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 385px;
+    min-width: 310px;
+    text-align: center;
+}
+
+.info-movie img {
+    border-radius: 50px;
+}
+
+.info-movie h3, p {
+    text-align: left;
+    font-size: 16px;
+}
+
+.info-movie h3 {
+    font-size: 19px;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+
+@media (min-width: 960px) {
+    .info-movie {
+        max-width: 900px;
+    }
+    
+    .info-movie img {
+        border-radius: 50px;
+    }
+    
+    .info-movie h3, p {
+        text-align: left;
+        font-size: 22px;
+    }
+
+    .info-movie h3 {
+        font-size: 25px;
+        margin-top: 35px;
+        margin-bottom: 10px;
+    }
+}

@@ -38,7 +38,7 @@ class Home extends Component {
                             <article key={movies.id} className='movie'>
                                 <strong>{movies.nome}</strong>
                                 <img src={movies.foto} alt='movie cover'></img>
-                                <Link to='/adsad'>Open</Link>
+                                <Link to={`movie/${movies.id}`} >Open</Link>
                             </article>
                         );
                     })}

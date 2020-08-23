@@ -7,7 +7,7 @@ class Header extends Component {
   render(){
     return(
       <div className="header">
-        <Link to='/' >Movies</Link>
+        <Link to='/' >React Movies</Link>
       </div>
     );
   } 
