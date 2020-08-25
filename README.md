@@ -1,6 +1,6 @@
 # React Movies
 
-<img alt="GoStack" src="githubAssets/appGif.gif" />
+<img alt="AppGif" src="githubAssets/appGif.gif" />
 
 ## A simple web application that consumes an api and list of some movies, made in ReactJS.
 
