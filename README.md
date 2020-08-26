@@ -1,10 +1,10 @@
-# React Movies
+# React Movies 🎥 
 
 <img alt="AppGif" src="githubAssets/appGif.gif" />
 
-## A simple web application that consumes an api and list of some movies, made in ReactJS.
+## A simple web application that consumes an api and list of some movies 🎥 , made in ReactJS.
 
-### Available Scripts
+### Available Scripts 💻
 
 **Cloning repository and running**
 
