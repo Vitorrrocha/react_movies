@@ -1,6 +1,6 @@
 # React Movies 🎥 
 
-<img alt="AppGif" src="githubAssets/appGif.gif" />
+<img alt="AppGif" src="githubAssets/appGif.gif" width="250" height="528"/>
 
 ## A simple web application that consumes an api and list of some movies 🎥 , made in ReactJS.
 
